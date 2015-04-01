@@ -154,7 +154,7 @@ a {
   border-radius: 50%;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -1vw); }
+  transform: translate(-50%, -1vmin); }
 
 .cat__mouth {
   width: 100%;
